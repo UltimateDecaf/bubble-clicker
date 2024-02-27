@@ -1,6 +1,9 @@
 # bubble-clicker
- A simple Bubble Clicker game for Windows made with C++ and SFML.
- 
+
+**DISCLAIMER: I decided to make the code public at the "it's not well-organized but it works" stage. It contains some sins, like repeatable code and unoptimized ways of handling values. I encourage you to rip and tear my code to see, where I can make it better. Code refactoring is the most important TODO as of now.**
+
+A simple Bubble Clicker game for Windows made with C++ and SFML.
+
  **Goal:** make a simple game to get comfortable with SFML functionality and C++ syntax and features (e.g. std::shared_ptr<T>)
 
  Although, I go through different courses that delve into C++ and Game Programming specifically, in this small project I dealt on my own with:
@@ -20,5 +23,3 @@ Apart from code organization, certain features can be introduced or fixed:
 - Randomize bubble's radius within a defined range.
 - Introduce power-ups (e.g. time limit extension).
 - Make more bubbles appear on screen and add a lifetime to them.
-
-<img src="https://github.com/UltimateDecaf/bubble-clicker/blob/main/clicker-gif.gif)https://github.com/UltimateDecaf/bubble-clicker/blob/main/clicker-gif.gif" width="50%" height="50%">
